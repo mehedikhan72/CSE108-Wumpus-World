@@ -38,8 +38,9 @@ cannot touch it. You must turn around before shooting to kill it.
 
 ## How to run the game in your local machine
  - Clone the repository
+ - Make sure you have g++ installed in your machine
  - Make sure you are in the folder containing the file 'wumpus.cpp'
- - Run the following command
+ - Run the following command in your terminal
     ```
     g++ wumpus.cpp -o a;./a
     ```
@@ -51,6 +52,6 @@ I developed the game in a linux machine and the emojis seemed to work very well 
 chances are the emojis may not show properly for you. 
 
 ## Contributing
-If you feel like the game could be updated, a bug could be fixed and things of that nature, feel free to make the changes and create a PR. 
+If you feel like the game could be updated, a bug could be fixed and things of that nature, feel free to make the changes and create a pull request. 
 I appreciate open source contribution a lot. Thank you!
 
