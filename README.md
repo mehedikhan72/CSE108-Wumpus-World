@@ -3,9 +3,11 @@
 
 ## Game introduction
 
+<br />
 <div align="center">
   <img src="A-Typical-Wumpus-World.png" alt="Image Description">
 </div>
+<br />
 
 Wumpus world is a popular grid game. The grid is a 4x4 array of cells. The bottom left cell is [0,0] and
 the top right cell is [3,3]. In any of these 16 cells, there can be:
