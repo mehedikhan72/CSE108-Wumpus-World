@@ -50,3 +50,7 @@ You should be seeing the game in your terminal. Good luck finding the gold!
 I developed the game in a linux machine and the emojis seemed to work very well here. So if you have a different OS, 
 chances are the emojis may not show properly for you. 
 
+## Contributing
+If you feel like the game could be updated, a bug could be fixed and things of that nature, feel free to make the changes and create a PR. 
+I appreciate open source contribution a lot. Thank you!
+
