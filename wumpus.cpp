@@ -215,9 +215,9 @@ public:
     string getAmmoInfo() {
         string str;
         if (total_shots == 0) {
-            "Shots left: " + to_str(total_shots) + " \U00002757";
+            str = "Shots left: " + to_str(total_shots) + " \U00002757";
         } else {
-            "Shots left " + to_str(total_shots);
+            str = "Shots left: " + to_str(total_shots);
         }
         return str;
     }
